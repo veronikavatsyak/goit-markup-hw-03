@@ -131,6 +131,7 @@ color: #2e2f42;
         display: block;
         margin: 0 auto;
         border: none;
+        min-width: 169px;
 }
 .hero-button:hover,
 .hero-button:focus {
@@ -226,7 +227,7 @@ color: #2e2f42;
 border-bottom: 1px solid #e7e9fc;
     border-left: 1px solid #e7e9fc;
     border-right: 1px solid #e7e9fc;
-    padding: 32px 16px;
+    padding: 32px 0;
 }
 .our-portfolio-subtitle {
         font-weight: 500;
@@ -252,7 +253,7 @@ border-bottom: 1px solid #e7e9fc;
 }
 .footer-logo {
     display: inline-block;
-    margin-bottom: 17.5px;
+    margin-bottom: 16px;
 }
 .footer-text {
         font-size: 16px;
